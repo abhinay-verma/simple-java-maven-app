@@ -14,6 +14,10 @@ import static org.junit.Assert.*;
 public void testData(){
     System.out.print("New Data Added");
 }
+
+public void remote2local(){
+System.out.print("Changes made to remote and pulled to local");
+}
 public class AppTest
 {
 
