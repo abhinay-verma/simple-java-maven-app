@@ -10,6 +10,10 @@ import static org.junit.Assert.*;
 /**
  * Unit test for simple App.
  */
+
+public void testData(){
+    System.out.print("New Data Added");
+}
 public class AppTest
 {
 
