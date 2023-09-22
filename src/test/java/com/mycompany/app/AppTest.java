@@ -10,6 +10,10 @@ import static org.junit.Assert.*;
 /**
  * Unit test for simple App.
  */
+
+public void test(){
+    System.out.print("Git Practice Set");
+}
 public class AppTest
 {
 
